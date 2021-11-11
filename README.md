@@ -1,4 +1,31 @@
 # LABORATORIO-1
+ **Grupo N°: 4**                                    
+ 
+ Fundamentos de circuitos eléctricos  
+ 
+ **NRC:** 10149                 
+ 
+ **Integrantes:**
+
+1.     Alexander Paul Ballesteros Jurado.
+2.      Jaime Joe Araque Guasgua
+3.      Kevin Alberto Morales
+
+**Docente:** Ing. Alulema Flores Darwin Omar
+
+
+## Objetivo General
+
+Explicar y demostrar experimentalmente las Leyes de Kirchhoff, mediente un circuito electrico creado en tinkercad para que tener un cocimiento basico sobre mediciones de los circuitos electricos.
+
+## Objetivo Especifico
+* Resumir que son y para que sirven las leyes de Kirchhoff
+* Construir un circuito electrico en Tinkercad
+* Tomar medidiciones con el multimetro virtual de Tinkercad
+* Calcular los voltajes y corrientes parciales mediante las leyes de Kirchhoff
+* Comparar los resultados medidos con los resultados calculados.
+* Deducir conclusiones sobre la practica realizada
+
 ![i4](https://user-images.githubusercontent.com/93224166/141375577-a60d4968-5f6b-4a35-95da-3562d71756ce.png)
 ![i5](https://user-images.githubusercontent.com/93224166/141375580-50407674-f22e-4f84-b492-623e0b14216a.png)
 ![i1](https://user-images.githubusercontent.com/93224166/141375581-7411e232-39ea-42c8-b006-ef16f1635cd3.png)
@@ -16,3 +43,8 @@
 ![R1](https://user-images.githubusercontent.com/93928146/141375859-26de3b2f-7343-438b-82c4-c3a76e95e730.PNG)
 ![R2](https://user-images.githubusercontent.com/93928146/141375860-e8e4034e-93f3-48f7-b0f7-829077def440.PNG)
 ![R3](https://user-images.githubusercontent.com/93928146/141375861-8f12469f-ed15-4160-aa9d-e731e92eef15.PNG)
+## Conclusiones
+* La suma de los voltajes parciales en un circuito en serie nos da como resultado el voltaje total del circuito
+* La corriente que entra a un nodo es igual a la suma de las corrientes parciales que estan dentro del nodo
+* El amperimetro siempre se le coloca en serie al componente ha ser medidio
+* Para medir resistencia en un circuito, primero debemos desconectar el circuito para medir la resistencia
