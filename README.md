@@ -1,9 +1,9 @@
 # LABORATORIO-1
  **Grupo N°: 4**                                    
  
- Fundamentos de circuitos eléctricos  
+### Fundamentos de circuitos eléctricos  
  
- **NRC:** 10151                 
+ **NRC:** 10149                 
  
  **Integrantes:**
 
@@ -26,11 +26,7 @@ Explicar y demostrar experimentalmente las Leyes de Kirchhoff, mediente un circu
 * Comparar los resultados medidos con los resultados calculados.
 * Deducir conclusiones sobre la practica realizada
 
-CORRIENTE ELECTRICA
-![Captura](https://user-images.githubusercontent.com/93928146/141381785-480948fa-ad18-4501-9f6b-5646a60fd09c.PNG)
-![Captura1](https://user-images.githubusercontent.com/93928146/141381786-41102e89-65de-4669-b17a-e1fd8d03f565.PNG)
-
-
+## Marco Teorico
 
 ![i4](https://user-images.githubusercontent.com/93224166/141375577-a60d4968-5f6b-4a35-95da-3562d71756ce.png)
 ![i5](https://user-images.githubusercontent.com/93224166/141375580-50407674-f22e-4f84-b492-623e0b14216a.png)
@@ -49,8 +45,15 @@ CORRIENTE ELECTRICA
 ![R1](https://user-images.githubusercontent.com/93928146/141375859-26de3b2f-7343-438b-82c4-c3a76e95e730.PNG)
 ![R2](https://user-images.githubusercontent.com/93928146/141375860-e8e4034e-93f3-48f7-b0f7-829077def440.PNG)
 ![R3](https://user-images.githubusercontent.com/93928146/141375861-8f12469f-ed15-4160-aa9d-e731e92eef15.PNG)
+
+## Respuesta a Interrogantes y Calculo de error
+
+## Video
+
 ## Conclusiones
 * La suma de los voltajes parciales en un circuito en serie nos da como resultado el voltaje total del circuito
 * La corriente que entra a un nodo es igual a la suma de las corrientes parciales que estan dentro del nodo
 * El amperimetro siempre se le coloca en serie al componente ha ser medidio
 * Para medir resistencia en un circuito, primero debemos desconectar el circuito para medir la resistencia
+
+## Bibliografia
