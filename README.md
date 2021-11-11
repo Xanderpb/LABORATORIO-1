@@ -3,7 +3,7 @@
  
  Fundamentos de circuitos eléctricos  
  
- **NRC:** 10149                 
+ **NRC:** 10151                 
  
  **Integrantes:**
 
