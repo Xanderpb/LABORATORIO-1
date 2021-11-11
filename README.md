@@ -26,6 +26,12 @@ Explicar y demostrar experimentalmente las Leyes de Kirchhoff, mediente un circu
 * Comparar los resultados medidos con los resultados calculados.
 * Deducir conclusiones sobre la practica realizada
 
+CORRIENTE ELECTRICA
+![Captura](https://user-images.githubusercontent.com/93928146/141381785-480948fa-ad18-4501-9f6b-5646a60fd09c.PNG)
+![Captura1](https://user-images.githubusercontent.com/93928146/141381786-41102e89-65de-4669-b17a-e1fd8d03f565.PNG)
+
+
+
 ![i4](https://user-images.githubusercontent.com/93224166/141375577-a60d4968-5f6b-4a35-95da-3562d71756ce.png)
 ![i5](https://user-images.githubusercontent.com/93224166/141375580-50407674-f22e-4f84-b492-623e0b14216a.png)
 ![i1](https://user-images.githubusercontent.com/93224166/141375581-7411e232-39ea-42c8-b006-ef16f1635cd3.png)
