@@ -27,6 +27,12 @@ Explicar y demostrar experimentalmente las Leyes de Kirchhoff, mediente un circu
 * Deducir conclusiones sobre la practica realizada
 
 ## Marco Teorico
+
+![CORRIENTE1](https://user-images.githubusercontent.com/93928146/141392548-2501e50a-cec0-459b-85b9-dba0a68133d4.PNG)
+![CORRIENTE0](https://user-images.githubusercontent.com/93928146/141392549-abf7337b-f047-4e1c-b16e-fa928e75a58f.PNG)
+
+
+
 ![LEY VOLTAJE](https://user-images.githubusercontent.com/93951775/141382801-cd85009c-65e2-47bd-a484-10c4ce36dd8c.png)
 
 ![EJC1](https://user-images.githubusercontent.com/93928146/141392047-0e29e212-ba1d-48a7-b19e-3e89fb7a4225.PNG)
