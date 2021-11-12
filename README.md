@@ -89,6 +89,8 @@ Explicar y demostrar experimentalmente las Leyes de Kirchhoff, mediente un circu
 Resultados obtenidos de voltaje y corriente, en cada elemento del circuito.
 ![EJERCICIOTABLA](https://user-images.githubusercontent.com/93928146/141401780-bc8f87bc-0f9b-473f-b45a-8ef0da86b007.PNG)
 
+### Verificacion de la LVK.
+
 ### Verificacion de la LCK.
 
 ![TABLA 3](https://user-images.githubusercontent.com/93951775/141402516-1cdd8c9c-d731-45b3-a8fd-dc3158ffd729.JPG)
