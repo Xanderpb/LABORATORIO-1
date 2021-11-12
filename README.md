@@ -66,9 +66,8 @@ Explicar y demostrar experimentalmente las Leyes de Kirchhoff, mediente un circu
 
 ### Trayectorias del voltaje
 
-![traj1](https://user-images.githubusercontent.com/93224166/141395738-522d3661-4863-4bb6-baba-bcc2756f2e84.png)
-![traj2](https://user-images.githubusercontent.com/93224166/141395734-5bd1f3ae-8113-41cb-b3e3-bea2750c1f8c.png)
-![traj3](https://user-images.githubusercontent.com/93224166/141395737-73fbf284-4940-4ad1-8f8d-49690a5662f3.png)
+![traj](https://user-
+images.githubusercontent.com/93224166/141403899-351ba6fd-0c34-4421-91d1-bbde0da018e5.png)
 
 ### Calculo de Voltaje, Resistencia, Intensidad mediante Formulas 
 
