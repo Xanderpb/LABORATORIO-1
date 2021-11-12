@@ -64,15 +64,6 @@ Explicar y demostrar experimentalmente las Leyes de Kirchhoff, mediente un circu
 ![vol 5](https://user-images.githubusercontent.com/93951775/141375794-f35600f3-a217-42a6-8cdc-fe8cc7c0b5d9.JPG)
 
 
-### Trayectorias del voltaje
-
-![traj](https://user-images.githubusercontent.com/93224166/141406937-6f4706a9-70d9-4274-a9d2-35cf421a830f.png)
-![traj1](https://user-images.githubusercontent.com/93224166/141406939-9b4c1eee-a891-4eb5-9595-ec5390f02c02.png)
-![traj2](https://user-images.githubusercontent.com/93224166/141406929-44cc243d-6998-4182-874f-617ed063ee5d.png)
-![traj3](https://user-images.githubusercontent.com/93224166/141406936-ee641925-229f-405a-a6d0-526cdf99856d.png)
-
-
-
 ### Calculo de Voltaje, Resistencia, Intensidad mediante Formulas 
 
 ![EJC1](https://user-images.githubusercontent.com/93928146/141392047-0e29e212-ba1d-48a7-b19e-3e89fb7a4225.PNG)
@@ -81,6 +72,15 @@ Explicar y demostrar experimentalmente las Leyes de Kirchhoff, mediente un circu
 ![ejc4](https://user-images.githubusercontent.com/93224166/141396443-a9a9e0ca-eaba-47e1-b886-7352a6dcc19b.png)
 ![ejc5](https://user-images.githubusercontent.com/93224166/141396438-875ddf7f-30df-489e-aa6e-bba6ae8f07ac.png)
 ![ejc6](https://user-images.githubusercontent.com/93224166/141396442-a4e81263-9a31-48e6-a2e0-51cd311100a3.png)
+
+### Trayectorias del voltaje
+
+![traj](https://user-images.githubusercontent.com/93224166/141406937-6f4706a9-70d9-4274-a9d2-35cf421a830f.png)
+![traj1](https://user-images.githubusercontent.com/93224166/141406939-9b4c1eee-a891-4eb5-9595-ec5390f02c02.png)
+![traj2](https://user-images.githubusercontent.com/93224166/141406929-44cc243d-6998-4182-874f-617ed063ee5d.png)
+![traj3](https://user-images.githubusercontent.com/93224166/141406936-ee641925-229f-405a-a6d0-526cdf99856d.png)
+
+
 
 
 
