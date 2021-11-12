@@ -91,6 +91,8 @@ Resultados obtenidos de voltaje y corriente, en cada elemento del circuito.
 
 ### Verificacion de la LVK.
 
+![tab2](https://user-images.githubusercontent.com/93224166/141408469-028655bd-fffa-42a1-8559-47f911b99f60.png)
+
 ### Verificacion de la LCK.
 
 ![TABLA 3](https://user-images.githubusercontent.com/93951775/141402516-1cdd8c9c-d731-45b3-a8fd-dc3158ffd729.JPG)
@@ -104,3 +106,10 @@ Resultados obtenidos de voltaje y corriente, en cada elemento del circuito.
 * Para medir resistencia en un circuito, primero debemos desconectar el circuito para medir la resistencia
 
 ## Bibliografia
+
+* Fluke. (2021, February). ¿Qué es la corriente? Fluke.com. https://www.fluke.com/es-ec/informacion/blog/electrica/que-es-la-corriente
+* GESTIONMAX. (2016). CORRIENTE EL�CTRICA - Definici�n - Significado. Motorgiga.com. https://diccionario.motorgiga.com/corriente-electrica
+* Colaboradores de los proyectos Wikimedia. (2002, October 26). flujo de carga por unidad de tiempo que recorre un material. Wikipedia.org; Wikimedia Foundation, Inc. https://es.wikipedia.org/wiki/Corriente_el%C3%A9ctrica
+* www.facebook.com/mecafenix. (2018, October 26). Ley de voltaje de Kirchhoff - Ingeniería Mecafenix. Ingeniería Mecafenix. https://www.ingmecafenix.com/electronica/ley-de-voltaje-de-kirchhoff/
+
+‌
