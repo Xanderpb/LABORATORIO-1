@@ -49,6 +49,16 @@ Explicar y demostrar experimentalmente las Leyes de Kirchhoff, mediente un circu
 ![LEY VOLTAJE](https://user-images.githubusercontent.com/93951775/141382801-cd85009c-65e2-47bd-a484-10c4ce36dd8c.png)
 
 
+
+
+
+
+
+![EJC1](https://user-images.githubusercontent.com/93928146/141392047-0e29e212-ba1d-48a7-b19e-3e89fb7a4225.PNG)
+![EJC2](https://user-images.githubusercontent.com/93928146/141392048-7bfe13f4-21cc-4f15-88fb-4e98d21789e9.PNG)
+![EJC3](https://user-images.githubusercontent.com/93928146/141392050-93296443-6882-47a4-8c85-f91b2797cd1d.PNG)
+
+
 ## Respuesta a Interrogantes y Calculo de error
 
 ## Video
