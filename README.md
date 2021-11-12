@@ -27,6 +27,12 @@ Explicar y demostrar experimentalmente las Leyes de Kirchhoff, mediente un circu
 * Deducir conclusiones sobre la practica realizada
 
 ## Marco Teorico
+![LEY VOLTAJE](https://user-images.githubusercontent.com/93951775/141382801-cd85009c-65e2-47bd-a484-10c4ce36dd8c.png)
+
+![EJC1](https://user-images.githubusercontent.com/93928146/141392047-0e29e212-ba1d-48a7-b19e-3e89fb7a4225.PNG)
+![EJC2](https://user-images.githubusercontent.com/93928146/141392048-7bfe13f4-21cc-4f15-88fb-4e98d21789e9.PNG)
+![EJC3](https://user-images.githubusercontent.com/93928146/141392050-93296443-6882-47a4-8c85-f91b2797cd1d.PNG)
+
 
 ![i4](https://user-images.githubusercontent.com/93224166/141375577-a60d4968-5f6b-4a35-95da-3562d71756ce.png)
 ![i5](https://user-images.githubusercontent.com/93224166/141375580-50407674-f22e-4f84-b492-623e0b14216a.png)
@@ -46,7 +52,6 @@ Explicar y demostrar experimentalmente las Leyes de Kirchhoff, mediente un circu
 ![R2](https://user-images.githubusercontent.com/93928146/141375860-e8e4034e-93f3-48f7-b0f7-829077def440.PNG)
 ![R3](https://user-images.githubusercontent.com/93928146/141375861-8f12469f-ed15-4160-aa9d-e731e92eef15.PNG)
 
-![LEY VOLTAJE](https://user-images.githubusercontent.com/93951775/141382801-cd85009c-65e2-47bd-a484-10c4ce36dd8c.png)
 
 
 
@@ -54,9 +59,6 @@ Explicar y demostrar experimentalmente las Leyes de Kirchhoff, mediente un circu
 
 
 
-![EJC1](https://user-images.githubusercontent.com/93928146/141392047-0e29e212-ba1d-48a7-b19e-3e89fb7a4225.PNG)
-![EJC2](https://user-images.githubusercontent.com/93928146/141392048-7bfe13f4-21cc-4f15-88fb-4e98d21789e9.PNG)
-![EJC3](https://user-images.githubusercontent.com/93928146/141392050-93296443-6882-47a4-8c85-f91b2797cd1d.PNG)
 
 
 ## Respuesta a Interrogantes y Calculo de error
