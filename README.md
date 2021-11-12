@@ -99,6 +99,8 @@ Resultados obtenidos de voltaje y corriente, en cada elemento del circuito.
 
 ## Video
 
+https://youtu.be/47R5bN04nhA
+
 ## Conclusiones
 * La suma de los voltajes parciales en un circuito en serie nos da como resultado el voltaje total del circuito
 * La corriente que entra a un nodo es igual a la suma de las corrientes parciales que estan dentro del nodo
