@@ -84,9 +84,10 @@ Explicar y demostrar experimentalmente las Leyes de Kirchhoff, mediente un circu
 
 
 
-## Respuesta a Interrogantes y Calculo de 
+## Respuesta a Interrogantes y Calculo del error
 
-Resultados obtenidos de voltaje y corriente, en cada elemento del circuito.
+### Resultados obtenidos de voltaje y corriente, en cada elemento del circuito.
+
 ![tab1](https://user-images.githubusercontent.com/93224166/141479610-62aa8040-5844-4e00-8ec4-8b0004c101f2.png)
 
 ### Verificacion de la LVK.
@@ -106,12 +107,13 @@ https://youtu.be/47R5bN04nhA
 * La corriente que entra a un nodo es igual a la suma de las corrientes parciales que estan dentro del nodo
 * El amperimetro siempre se le coloca en serie al componente ha ser medidio
 * Para medir resistencia en un circuito, primero debemos desconectar el circuito para medir la resistencia
+* Las carecteristicas de como calcular las incognitas en un circuito en serie, son total mente diferente a las de un circuito en paralelo.
 
 ## Bibliografia
 
 * Fluke. (2021, February). ¿Qué es la corriente? Fluke.com. https://www.fluke.com/es-ec/informacion/blog/electrica/que-es-la-corriente
 * GESTIONMAX. (2016). CORRIENTE EL�CTRICA - Definici�n - Significado. Motorgiga.com. https://diccionario.motorgiga.com/corriente-electrica
 * Colaboradores de los proyectos Wikimedia. (2002, October 26). flujo de carga por unidad de tiempo que recorre un material. Wikipedia.org; Wikimedia Foundation, Inc. https://es.wikipedia.org/wiki/Corriente_el%C3%A9ctrica
-* www.facebook.com/mecafenix. (2018, October 26). Ley de voltaje de Kirchhoff - Ingeniería Mecafenix. Ingeniería Mecafenix. https://www.ingmecafenix.com/electronica/ley-de-voltaje-de-kirchhoff/
+* Mecafenix. (2018, October 26). Ley de voltaje de Kirchhoff - Ingeniería Mecafenix. Ingeniería Mecafenix. https://www.ingmecafenix.com/electronica/ley-de-voltaje-de-kirchhoff/
 
 ‌
