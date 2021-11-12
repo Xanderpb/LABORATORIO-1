@@ -83,6 +83,9 @@ Explicar y demostrar experimentalmente las Leyes de Kirchhoff, mediente un circu
 
 ## Respuesta a Interrogantes y Calculo de 
 
+
+![EJERCICIOTABLA](https://user-images.githubusercontent.com/93928146/141401780-bc8f87bc-0f9b-473f-b45a-8ef0da86b007.PNG)
+
 ![TABLA 3](https://user-images.githubusercontent.com/93951775/141397927-117f4070-42a3-4a27-a9d8-854ab918753b.JPG)
 
 
